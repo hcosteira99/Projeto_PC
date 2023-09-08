@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/jdsilva/Documents/PC_2023/trabalho/lib/core.jar",
+        "/home/jdsilva/Documents/PC_2023/work/lib/core.jar"
+    ]
+}
